@@ -3,16 +3,16 @@
 </div>
 
 
-![alt text](./file-handling.png)
+![alt text](../notes-images/file-handling/file-handling.png)
 
 
-![alt text](./file-modes.png)
+![alt text](../notes-images/file-handling/file-modes.png)
 
 
-![alt text](./file-read.png)
+![alt text](../notes-images/file-handling/file-read.png)
 
 
-![alt text](./file-write.png)
+![alt text](../notes-images/file-handling/file-write.png)
 
 
-![alt text](./delete-file.png)
+![alt text](../notes-images/file-handling/delete-file.png)
