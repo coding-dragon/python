@@ -3,4 +3,6 @@
 </div>
 
 
-![image](![alt text](./file-handling.png))
+![alt text](./file-handling.png)
+
+![alt text](./file-modes.png)
